@@ -253,7 +253,7 @@
                 "ext-libxml": "*",
                 "ext-xmlwriter": "*",
                 "nikic/php-parser": "^4.0",
-                "php": ">=8.2",
+                "php": ">=8.1",
                 "phpunit/php-file-iterator": "^5.0",
                 "phpunit/php-text-template": "^4.0",
                 "sebastian/code-unit-reverse-lookup": "^4.0",
@@ -328,7 +328,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": ">=8.2"
+                "php": ">=8.1"
             },
             "require-dev": {
                 "phpunit/phpunit": "^11.0"
@@ -390,7 +390,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": ">=8.2"
+                "php": ">=8.1"
             },
             "require-dev": {
                 "ext-pcntl": "*",
@@ -455,7 +455,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": ">=8.2"
+                "php": ">=8.1"
             },
             "require-dev": {
                 "phpunit/phpunit": "^11.0"
@@ -516,7 +516,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": ">=8.2"
+                "php": ">=8.1"
             },
             "require-dev": {
                 "phpunit/phpunit": "^11.0"
@@ -577,7 +577,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": ">=8.2"
+                "php": ">=8.1"
             },
             "require-dev": {
                 "phpunit/phpunit": "^11.0"
@@ -635,7 +635,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": ">=8.2"
+                "php": ">=8.1"
             },
             "require-dev": {
                 "phpunit/phpunit": "^11.0"
@@ -693,7 +693,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": ">=8.2"
+                "php": ">=8.1"
             },
             "require-dev": {
                 "phpunit/phpunit": "^11.0"
@@ -752,7 +752,7 @@
             "require": {
                 "ext-dom": "*",
                 "ext-mbstring": "*",
-                "php": ">=8.2",
+                "php": ">=8.1",
                 "sebastian/diff": "^6.0",
                 "sebastian/exporter": "^6.0"
             },
@@ -829,7 +829,7 @@
             },
             "require": {
                 "nikic/php-parser": "^4.0",
-                "php": ">=8.2"
+                "php": ">=8.1"
             },
             "require-dev": {
                 "phpunit/phpunit": "^11.0"
@@ -887,7 +887,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": ">=8.2"
+                "php": ">=8.1"
             },
             "require-dev": {
                 "phpunit/phpunit": "^11.0",
@@ -955,7 +955,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": ">=8.2"
+                "php": ">=8.1"
             },
             "require-dev": {
                 "phpunit/phpunit": "^11.0"
@@ -1021,7 +1021,7 @@
             },
             "require": {
                 "ext-mbstring": "*",
-                "php": ">=8.2",
+                "php": ">=8.1",
                 "sebastian/recursion-context": "^6.0"
             },
             "require-dev": {
@@ -1099,7 +1099,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": ">=8.2",
+                "php": ">=8.1",
                 "sebastian/object-reflector": "^4.0",
                 "sebastian/recursion-context": "^6.0"
             },
@@ -1163,7 +1163,7 @@
             },
             "require": {
                 "nikic/php-parser": "^4.0",
-                "php": ">=8.2"
+                "php": ">=8.1"
             },
             "require-dev": {
                 "phpunit/phpunit": "^11.0"
@@ -1221,7 +1221,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": ">=8.2",
+                "php": ">=8.1",
                 "sebastian/object-reflector": "^4.0",
                 "sebastian/recursion-context": "^6.0"
             },
@@ -1280,7 +1280,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": ">=8.2"
+                "php": ">=8.1"
             },
             "require-dev": {
                 "phpunit/phpunit": "^11.0"
@@ -1337,7 +1337,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": ">=8.2"
+                "php": ">=8.1"
             },
             "require-dev": {
                 "phpunit/phpunit": "^11.0"
@@ -1402,7 +1402,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": ">=8.2"
+                "php": ">=8.1"
             },
             "require-dev": {
                 "phpunit/phpunit": "^11.0"
@@ -1460,7 +1460,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": ">=8.2"
+                "php": ">=8.1"
             },
             "default-branch": true,
             "type": "library",
@@ -1558,7 +1558,7 @@
     "prefer-stable": true,
     "prefer-lowest": false,
     "platform": {
-        "php": ">=8.2",
+        "php": ">=8.1",
         "ext-dom": "*",
         "ext-json": "*",
         "ext-libxml": "*",
@@ -1568,7 +1568,7 @@
     },
     "platform-dev": [],
     "platform-overrides": {
-        "php": "8.2.0"
+        "php": "8.1.0"
     },
     "plugin-api-version": "2.6.0"
 }
