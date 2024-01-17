@@ -1,6 +1,6 @@
 {
-    "name": "phpunit/phpunit",
-    "description": "The PHP Unit Testing framework.",
+    "name": "mniemcewicz/phpunit",
+    "description": "The PHP Unit Testing framework fork.",
     "type": "library",
     "keywords": [
         "phpunit",
